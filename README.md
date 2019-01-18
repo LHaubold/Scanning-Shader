@@ -18,7 +18,8 @@ This Shader creates a translucent force field that can dissolve. This is accompl
 - Dissolvepercentage: Handle to change the amount of force field dissolved from 0% to 100%
 - Extrusion amount:   Mesh extrusion handle
 
+
 **Shader at 0%, 50%, 80% dissolvepercentage:**
 
-![force field dissolved: 0%, 50%, 80%](https://github.com/LHaubold/Sci-fi-Bullethell/blob/master/Unity%20Project/Assets/Resources/Sprites/screenshot.PNG)
+![force field dissolved: 0%, 50%, 80%](https://github.com/LHaubold/Scanning-Shader/blob/master/example.PNG)
 Screenshot taken with Post-Processing bloom effect on
